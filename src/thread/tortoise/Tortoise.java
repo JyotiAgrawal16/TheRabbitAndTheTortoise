@@ -44,7 +44,7 @@ public class Tortoise extends Thread{
         }
         JOptionPane.showConfirmDialog(
                 null,
-                "The Tortoise has completed the race!",
+                "The Tortoise has completed the race!!",
                 "Tortoise",
                 JOptionPane.OK_CANCEL_OPTION
         );
